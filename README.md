@@ -5,4 +5,8 @@ You need to get API keys for Twitter account and in order to do that you will ne
 
 https://dev.twitter.com/apps/new 
 
-Add the required API credentials in the code (replace the get_from_twitter) and run it :)
+1- Add the required API credentials in the code (replace the get_from_twitter).
+2- Replace PageName with the name of the page you want to scrape post from.
+3-Replace Text_from_post with part of the text from the Facebook post you intend to tweet.
+
+Run the script :)
